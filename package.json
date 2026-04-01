@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/kavenegar-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Kavenegar SMS gateway (Iran)",
+  "version": "1.0.1",
+  "description": "MCP server for Kavenegar — SMS gateway, OTP, voice calls (Iran)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -45,7 +45,9 @@
     "iran-api",
     "sms",
     "cpaas",
-    "typescript"
+    "typescript",
+    "api",
+    "voice"
   ],
   "license": "MIT",
   "repository": {
