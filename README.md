@@ -1,6 +1,6 @@
-# kavenegar-mcp
+# Kavenegar MCP — send SMS and OTP codes in Iran from an AI assistant
 
-MCP server for Kavenegar SMS gateway (Iran). Supports sending SMS, bulk SMS, OTP, template-based messaging, delivery tracking, and account management. Uses API Key in URL path authentication.
+If you were looking for a way to send an SMS or a one-time password from Claude or another AI assistant, run a bulk send, check delivery status or read your remaining credit without writing gateway code, this is it. 8 tools cover single and bulk SMS, template-based lookup messages, OTP, delivery status, outbox listing, account info and balance. Authentication is a Kavenegar API key in the URL path.
 
 ## Tools (8)
 
@@ -48,3 +48,4 @@ MCP server for Kavenegar SMS gateway (Iran). Supports sending SMS, bulk SMS, OTP
 ## License
 
 MIT
+
