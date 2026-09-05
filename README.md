@@ -49,3 +49,6 @@ If you were looking for a way to send an SMS or a one-time password from Claude 
 
 MIT
 
+---
+
+Telegram: [@vhodvai](https://t.me/vhodvai)
